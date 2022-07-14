@@ -5,7 +5,6 @@ es_extended is a roleplay framework for FiveM. It is developed on top of Essenti
 ## Links & Read more
 
 - [ESX Documentation](https://esx-org.github.io/)
-- [ESX Development Discord](https://discord.gg/MsWzPqE)
 - [FiveM Native Reference](https://runtime.fivem.net/doc/reference.html)
 
 ## Features
@@ -22,10 +21,10 @@ es_extended is a roleplay framework for FiveM. It is developed on top of Essenti
 
 This order also applies in the startup order.
 
-- [mysql-async](https://github.com/brouznouf/fivem-mysql-async)
+- [mysql-async](https://github.com/athallahra123/mysql-async)
 - [essentialmode](https://github.com/kanersps/essentialmode)
-- [esplugin_mysql](https://github.com/kanersps/esplugin_mysql)
-- [async](https://github.com/ESX-Org/async)
+- [esplugin_mysql](https://github.com/athallahra123/esplugin_mysql)
+- [async](https://github.com/athallahra123/async)
 
 ## Download & Installation
 
